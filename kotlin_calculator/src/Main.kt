@@ -120,7 +120,7 @@ fun main() {
 
     while (true) {
         // Display menu options
-        println("Enter your choice")
+        println("Enter your choice: ")
         println("1. Addition")
         println("2. Subtraction")
         println("3. Multiplication")
