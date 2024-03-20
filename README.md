@@ -41,4 +41,4 @@ While the calculator software provides basic functionality, there are areas for 
 - Explore additional Kotlin features and best practices to optimize code structure and performance.
 
 # License
-This project is licensed under the MIT License - see the [LICENSE](src/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](./kotlin_calculator/src/LICENSE) file for details.
