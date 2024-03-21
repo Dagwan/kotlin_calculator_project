@@ -6,10 +6,7 @@ The calculator software is designed to perform basic arithmetic operations such 
 
 My primary goal in creating this software was to solidify my grasp of Kotlin syntax and explore its capabilities in building practical applications. By implementing various mathematical operations and handling user input dynamically, I aimed to strengthen my problem-solving skills and familiarity with Kotlin's features.
 
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/oYJCb_GrKSk)
 
 # Development Environment
 
